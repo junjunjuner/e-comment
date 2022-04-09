@@ -15,7 +15,7 @@
     "file-saver": "^2.0.2",
     "jquery": "^3.4.1",
     "lib-flexible": "^0.3.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "xlsx": "^0.14.4"
